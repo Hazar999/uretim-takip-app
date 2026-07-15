@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+reportlab
+pypdf
+libsql==0.1.11
